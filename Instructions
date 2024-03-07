@@ -1,0 +1,23 @@
+In this challenge, we'll test your understanding of Typography in CSS. Modify the template to the right in the following ways:
+
+ Modify the styling of the quotes so that they are all bolded.
+
+Bonus: Can you make the text italics just with CSS? Try googling how it's done!
+
+Change the font family of the h1 to be Comic Sans MS (aka the greatest font ever)
+
+
+Modify the font size of the .quotes-section div so that it's 20px
+
+Now change the font size of the .quote paragraphs so that they're 1.5em 
+
+Question: How many px is their font size now?
+
+Finally, change the font size of the .quotes-section div so that it's 10px 
+
+Question: How did the em styled element change in relation to that?
+
+
+Head over to fonts.google.com and find a font that would look good for quotes
+
+Add the font to the webpage and use it as the font family for the .quote paragraphs.
